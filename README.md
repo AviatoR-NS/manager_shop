@@ -67,7 +67,8 @@ source venv/bin/activate
 
 bash
 pip install -r requirements.txt
-💻 Использование
+
+## 💻 Использование
 Запуск приложения
 bash
 python main.py
