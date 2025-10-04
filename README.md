@@ -51,7 +51,7 @@ internet_store/
 git clone https://github.com/Aviator-NS/manager_shop.git
 cd internet-store
 
-### Запуск приложения
+## Запуск приложения
 ```bash
 python main.py
 После запуска откроется главное окно приложения с кнопками для управления:
